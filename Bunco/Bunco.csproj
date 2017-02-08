@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\Month.cs" />
+    <Compile Include="Class\Player.cs" />
+    <Compile Include="CLIs\Month CLI.cs" />
+    <Compile Include="CLIs\Player CLI.cs" />
+    <Compile Include="CLIs\Players.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
